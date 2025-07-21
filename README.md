@@ -103,7 +103,7 @@ The project is organized into several main scripts and data folders:
 
 1. **Install Dependencies**
    - Ensure Python 3.x is installed.
-   - Install required packages with `pip install -r requirements.txt`.
+   - Install required packages
 
 2. **Prepare Data**
    - Place raw corpora in the appropriate `data/` folders.
@@ -115,7 +115,7 @@ The project is organized into several main scripts and data folders:
    - Execute scripts for collocation analysis, NER, and topic modeling.
 
 5. **Review Results**
-   - Results will be saved to the `results/` folder and may include visualizations (e.g., word clouds, topic summaries).
+   - Results will be saved to the `output/` folder and may include visualizations (e.g., word clouds, topic summaries).
 
 ---
 
